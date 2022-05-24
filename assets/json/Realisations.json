@@ -1,0 +1,19 @@
+[
+    {
+      "name": "coutellerie",
+      "desc": "Découvrez les lames de la forge ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyH2h5ZyxqlI3Wr9AhoZKMOjRG4biXtvvd5Q&usqp=CAU"
+    },
+
+    {
+        "name": "bijouterie",
+        "desc": "Obtenez un style authentique avec les bijoux de la forges",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoovHMGM2EV9YuYhCt1YSkHOpCBgfqFDMTA&usqp=CAU"
+      },
+
+      {
+        "name": "accessoires",
+        "desc": "besoin de pièces sur mesure ? cette section est faites pour vous !",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkFp5IuR5N8pdMLeKaz3TfcmofEHNTap-gJg&usqp=CAU"
+      }
+  ]
